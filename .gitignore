@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+/.vs/7.7  Container/v17
+/x64/Debug
+/7.7  Container/x64/Debug/7.7  Container.tlog
+/7.7  Container/x64/Debug
