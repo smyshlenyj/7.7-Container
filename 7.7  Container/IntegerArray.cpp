@@ -27,10 +27,7 @@ public:
 			throw BadLength();
 		}
 
-		if (count >= 0)
-		{
-			array = new int[count];
-		}
+		array = new int[count];
 	}
 
 	void IntegerArray::InsertElementByIndex(int index, int newElement)
